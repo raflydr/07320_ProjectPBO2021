@@ -1,0 +1,179 @@
+Hasil Run Program :
+run-single:
+1. Insert
+2. Update
+3. Delete
+4. View Hasil Clustering
+0. Exit
+Pilih->1
+Provinsi = Sumut
+Tingkat Kematian = 22
+Jumlah Kasus = 17
+Potensi Penularan = 76
+Data Berhasil Di Insert
+Provinsi	Tingkat Kematian	Jumlah Kasus	Potensi Penularan
+Sumut		22			17		76
+
+1. Insert
+2. Update
+3. Delete
+4. View Hasil Clustering
+0. Exit
+Pilih->1
+Provinsi = Sulteng
+Tingkat Kematian = 31
+Jumlah Kasus = 17
+Potensi Penularan = 40
+Data Berhasil Di Insert
+Provinsi	Tingkat Kematian	Jumlah Kasus	Potensi Penularan
+Sulteng		31			17		40
+Sumut		22			17		76
+
+1. Insert
+2. Update
+3. Delete
+4. View Hasil Clustering
+0. Exit
+Pilih->1
+Provinsi = Jabar
+Tingkat Kematian = 23
+Jumlah Kasus = 16
+Potensi Penularan = 77
+Data Berhasil Di Insert
+Provinsi	Tingkat Kematian	Jumlah Kasus	Potensi Penularan
+Jabar		23			16		77
+Sulteng		31			17		40
+Sumut		22			17		76
+
+1. Insert
+2. Update
+3. Delete
+4. View Hasil Clustering
+0. Exit
+Pilih->1
+Provinsi = Kalbar
+Tingkat Kematian = 20
+Jumlah Kasus = 16
+Potensi Penularan = 6
+Data Berhasil Di Insert
+Provinsi	Tingkat Kematian	Jumlah Kasus	Potensi Penularan
+Kalbar		20			16		6
+Jabar		23			16		77
+Sulteng		31			17		40
+Sumut		22			17		76
+
+1. Insert
+2. Update
+3. Delete
+4. View Hasil Clustering
+0. Exit
+Pilih->1
+Provinsi = Jateng
+Tingkat Kematian = 21
+Jumlah Kasus = 15
+Potensi Penularan = 81
+Data Berhasil Di Insert
+Provinsi	Tingkat Kematian	Jumlah Kasus	Potensi Penularan
+Jateng		21			15		81
+Kalbar		20			16		6
+Jabar		23			16		77
+Sulteng		31			17		40
+Sumut		22			17		76
+
+1. Insert
+2. Update
+3. Delete
+4. View Hasil Clustering
+0. Exit
+Pilih->1
+Provinsi = Jatim
+Tingkat Kematian = 19
+Jumlah Kasus = 15
+Potensi Penularan = 39
+Data Berhasil Di Insert
+Provinsi	Tingkat Kematian	Jumlah Kasus	Potensi Penularan
+Jatim		19			15		39
+Jateng		21			15		81
+Kalbar		20			16		6
+Jabar		23			16		77
+Sulteng		31			17		40
+Sumut		22			17		76
+
+1. Insert
+2. Update
+3. Delete
+4. View Hasil Clustering
+0. Exit
+Pilih->4
+null** Cluster Information1 **
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=15,PotensiPenularan=39,clusterNumber=1]
+************************
+** Cluster Information1 **
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=15,PotensiPenularan=39,clusterNumber=1]
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=15,PotensiPenularan=81,clusterNumber=2]
+************************
+** Cluster Information1 **
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=15,PotensiPenularan=39,clusterNumber=1]
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=15,PotensiPenularan=81,clusterNumber=2]
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=16,PotensiPenularan=6,clusterNumber=3]
+************************
+Record [Provinsi=Jabar,TingkatKematian=23,JumlahKasus=16,PotensiPenularan=77,clusterNumber=0]
+** Cluster Information1 **
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=15,PotensiPenularan=39,clusterNumber=1]
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=15,PotensiPenularan=81,clusterNumber=2]
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=16,PotensiPenularan=6,clusterNumber=3]
+********************
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=15,PotensiPenularan=39,clusterNumber=1]
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=15,PotensiPenularan=81,clusterNumber=2]
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=16,PotensiPenularan=6,clusterNumber=3]
+** Cluster Information1 **
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=15,PotensiPenularan=39,clusterNumber=1]
+Cluster [TingkatKematianCentroid=11,JumlahKasusCentroid=15,PotensiPenularan=79,clusterNumber=2]
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=16,PotensiPenularan=6,clusterNumber=3]
+************************
+Record [Provinsi=Sulteng,TingkatKematian=31,JumlahKasus=17,PotensiPenularan=40,clusterNumber=0]
+** Cluster Information1 **
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=15,PotensiPenularan=39,clusterNumber=1]
+Cluster [TingkatKematianCentroid=11,JumlahKasusCentroid=15,PotensiPenularan=79,clusterNumber=2]
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=16,PotensiPenularan=6,clusterNumber=3]
+********************
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=15,PotensiPenularan=39,clusterNumber=1]
+Cluster [TingkatKematianCentroid=11,JumlahKasusCentroid=15,PotensiPenularan=79,clusterNumber=2]
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=16,PotensiPenularan=6,clusterNumber=3]
+** Cluster Information1 **
+Cluster [TingkatKematianCentroid=15,JumlahKasusCentroid=16,PotensiPenularan=39,clusterNumber=1]
+Cluster [TingkatKematianCentroid=11,JumlahKasusCentroid=15,PotensiPenularan=79,clusterNumber=2]
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=16,PotensiPenularan=6,clusterNumber=3]
+************************
+Record [Provinsi=Sumut,TingkatKematian=22,JumlahKasus=17,PotensiPenularan=76,clusterNumber=0]
+** Cluster Information1 **
+Cluster [TingkatKematianCentroid=15,JumlahKasusCentroid=16,PotensiPenularan=39,clusterNumber=1]
+Cluster [TingkatKematianCentroid=11,JumlahKasusCentroid=15,PotensiPenularan=79,clusterNumber=2]
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=16,PotensiPenularan=6,clusterNumber=3]
+********************
+Cluster [TingkatKematianCentroid=15,JumlahKasusCentroid=16,PotensiPenularan=39,clusterNumber=1]
+Cluster [TingkatKematianCentroid=11,JumlahKasusCentroid=15,PotensiPenularan=79,clusterNumber=2]
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=16,PotensiPenularan=6,clusterNumber=3]
+** Cluster Information1 **
+Cluster [TingkatKematianCentroid=15,JumlahKasusCentroid=16,PotensiPenularan=39,clusterNumber=1]
+Cluster [TingkatKematianCentroid=16,JumlahKasusCentroid=16,PotensiPenularan=77,clusterNumber=2]
+Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=16,PotensiPenularan=6,clusterNumber=3]
+************************
+****** FINAL CLUSTER INFORMATIN ******
+key=Cluster [TingkatKematianCentroid=0,JumlahKasusCentroid=16,PotensiPenularan=6,clusterNumber=3],Value=[Record [Provinsi=Kalbar,TingkatKematian=20,JumlahKasus=16,PotensiPenularan=6,clusterNumber=3]]
+key=Cluster [TingkatKematianCentroid=15,JumlahKasusCentroid=16,PotensiPenularan=39,clusterNumber=1],Value=[Record [Provinsi=Jatim,TingkatKematian=19,JumlahKasus=15,PotensiPenularan=39,clusterNumber=1], Record [Provinsi=Sulteng,TingkatKematian=31,JumlahKasus=17,PotensiPenularan=40,clusterNumber=1]]
+key=Cluster [TingkatKematianCentroid=16,JumlahKasusCentroid=16,PotensiPenularan=77,clusterNumber=2],Value=[Record [Provinsi=Jateng,TingkatKematian=21,JumlahKasus=15,PotensiPenularan=81,clusterNumber=2], Record [Provinsi=Jabar,TingkatKematian=23,JumlahKasus=16,PotensiPenularan=77,clusterNumber=2], Record [Provinsi=Sumut,TingkatKematian=22,JumlahKasus=17,PotensiPenularan=76,clusterNumber=2]]
+Record [Provinsi=Jatim,TingkatKematian=19,JumlahKasus=15,PotensiPenularan=39,clusterNumber=1]
+Record [Provinsi=Jateng,TingkatKematian=21,JumlahKasus=15,PotensiPenularan=81,clusterNumber=2]
+Record [Provinsi=Kalbar,TingkatKematian=20,JumlahKasus=16,PotensiPenularan=6,clusterNumber=3]
+Record [Provinsi=Jabar,TingkatKematian=23,JumlahKasus=16,PotensiPenularan=77,clusterNumber=2]
+Record [Provinsi=Sulteng,TingkatKematian=31,JumlahKasus=17,PotensiPenularan=40,clusterNumber=1]
+Record [Provinsi=Sumut,TingkatKematian=22,JumlahKasus=17,PotensiPenularan=76,clusterNumber=2]
+
+1. Insert
+2. Update
+3. Delete
+4. View Hasil Clustering
+0. Exit
+Pilih->0
+BUILD SUCCESSFUL (total time: 8 minutes 34 seconds)
